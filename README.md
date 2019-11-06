@@ -1,5 +1,5 @@
 
-<p align="center">📊 <b>Sequential t-SNE GUI: Graphical User Interface for Sequential t-SNE Survival Analysis</b></p>
+<p align="center">📊 <b>Sequential t-SNE GUI</b></p>
 <p align="center"> A GUI interface for preforming sequential t-SNE clustering survival analysis on TCGA gene expression data. 
 
 ## Useage 
