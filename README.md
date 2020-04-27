@@ -37,7 +37,7 @@ for (i in libs){
 <details>
 <summary><b>Launch</b></summary> 
     
-1. Click `Clone or download` button on the top of this page, then click [`Download ZIP`]();  
+1. Click `Clone or download` button on the top of this page, then click `Download ZIP`();  
 2. Unzip the file to an desired folder location.;  
 3. In R Studio set the working directory to the folder location choosen in step 2 (use `setwd()` to set your working directory);
     
