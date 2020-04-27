@@ -5,7 +5,7 @@
 ## Useage 
 
 ### 🌐 Online version 
-Go to 🔗[`Sequential t-SNE`](https://chpupsom19.shinyapps.io/sequential_t-sne). 
+Go to 🔗[`Sequential t-SNE`](https://chpupsom19.shinyapps.io/survival_analysis_tsne_umap_tcga/). 
 
 ### 💻 Standalone version  
 <details>
